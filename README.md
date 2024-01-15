@@ -1,7 +1,6 @@
 # Time-Series
 
-Used oil and gas open-source dataset.
+**Objective** 
 
-Done the EDA , feature engineering.
+Using the open source data of oil and gas, get the forecasting of the production of well .
 
-After that , did the forecasting on the data to get the forecated oil from the well.
